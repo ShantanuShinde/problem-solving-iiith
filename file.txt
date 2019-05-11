@@ -2,7 +2,10 @@
 Demo of SRIP Problem Solving ... 
 Change branch
 changed from github
+<<<<<<< HEAD
 
 more change
 =======
 >>>>>>> parent of 305d202... Added changes
+=======
+>>>>>>> parent of 056a78c... Update file.txt
